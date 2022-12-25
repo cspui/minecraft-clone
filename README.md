@@ -28,3 +28,5 @@
 - [] camera mode (survival, director)
 - [] Map displacement
 - [] Sound
+- [] Terrain generator
+- [] Deployment
